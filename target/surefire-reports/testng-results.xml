@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2021-11-24T15:00:31 CST" finished-at="2021-11-24T15:00:31 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2021-11-24T15:00:31 CST" finished-at="2021-11-24T15:00:31 CST">
+      <class name="isapepito.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:isapepito.Mavenjava.SeleniumTest@e320068]" name="BrowserAutomation" duration-ms="1" started-at="2021-11-24T15:00:31 CST" finished-at="2021-11-24T15:00:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:isapepito.Mavenjava.SeleniumTest@e320068]" name="elementsUI" duration-ms="0" started-at="2021-11-24T15:00:31 CST" finished-at="2021-11-24T15:00:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- isapepito.Mavenjava.SeleniumTest -->
+      <class name="isapepito.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:isapepito.Mavenjava.AppiumTest@15d0c81b]" name="IOSApps" duration-ms="5" started-at="2021-11-24T15:00:31 CST" finished-at="2021-11-24T15:00:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:isapepito.Mavenjava.AppiumTest@15d0c81b]" name="NativeAppAndroid" duration-ms="0" started-at="2021-11-24T15:00:31 CST" finished-at="2021-11-24T15:00:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- isapepito.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
